@@ -29,7 +29,7 @@ THE CREATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <summary>Why supporting or sponsoring License For Humanity?</summary>
     <p>License For Humanity is a project of <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> under the <a href="https://github.com/mw-it/licenseforhumanity/blob/main/LICENSE.md" target="_blank">License For Humanity</a>.</p>
     <p>MW provides a lot of software and utilities as freeware for the web without requiring the users to pay any fee.</p>
-    <p>However, maintaining the web site, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
+    <p>However, maintaining the web sites, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
     <p>Do you use License For Humanity or do you find License For Humanity useful?</p>
     <p>Make your decision. <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">With your donation you support the development of License For Humanity and other useful free creations/projects/software/utilities.</a></p>
     <p>I greatly appreciate your support!</p>
@@ -37,13 +37,16 @@ THE CREATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <p><a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW)</a></p>
 </details>
 
-## find + follow + support
-+ Web: <a href="https://licenseforhumanity.org" target="_blank">https://licenseforhumanity.org</a>
-+ GitHub: <a href="https://github.com/mw-it/licenseforhumanity" target="_blank">License For Humanity on GitHub</a>
-+ Email: <a href="mailto:mail@licenseforhumanity.org" target="_blank">Email</a>
-+ Donation: <a href="https://donate.stripe.com/8wM15m2sg1P16Os146" target="_blank">Donation-Link</a>
+## Find + Follow + Support
+Web: <a href="https://licenseforhumanity.org" target="_blank">https://licenseforhumanity.org</a>
 
-## copyright + license
+GitHub: <a href="https://github.com/mw-it/licenseforhumanity" target="_blank">License For Humanity on GitHub</a>
+
+Email: <a href="mailto:mail@licenseforhumanity.org" target="_blank">Email</a>
+
+Donation: <a href="https://donate.stripe.com/8wM15m2sg1P16Os146" target="_blank">Donation-Link</a>
+
+## Copyright + License
 Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
 
 Creation released under the <a href="https://github.com/mw-it/licenseforhumanity/blob/main/LICENSE.md" target="_blank">License For Humanity</a>.
