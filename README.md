@@ -1,6 +1,6 @@
 # LICENSE FOR HUMANITY
 
-License For Humanity is a new license type based on a simple principle in Islam, teached by the Prophet Muhammad (Peace Be Upon Him).
+License For Humanity is a new license type for everyone and everything based on a simple principle in Islam, teached by the Prophet Muhammad (Peace Be Upon Him).
 
 **“The best among human beings is the one who is beneficial for other human beings.” - Prophet Muhammad (Peace Be Upon Him)**
 
